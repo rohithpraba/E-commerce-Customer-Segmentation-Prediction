@@ -26,6 +26,13 @@ The project also includes an interactive Gradio web app with PWA support (in pro
 * Deploy a web-based prediction tool (Gradio + PWA)
 
 ---
+## 📊 Dataset
+
+```
+https://drive.google.com/file/d/18TxecJI1kSr3kGjNRqtcDD7CFKGJxGIv/view?usp=sharing
+```
+
+---
 
 ## 📦 Requirements
 
